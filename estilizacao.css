@@ -1,0 +1,154 @@
+@charset"UTF-8";
+body {
+    font-size: 14pt;
+    padding: 20px;
+    background-color: white;
+    background-image: url(../Projeto-Tabela-de-Jogos/imagens/background.jpg);
+    background-repeat: no-repeat;
+}
+
+div.cabecalho {
+    text-align: center;
+    padding: 10px;
+}
+
+div.cabecalho h1 {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Bangers', cursive;
+    font-size: 40pt;
+    color: black;
+}
+
+div.cabecalho h2 {
+    text-align: center;
+    padding: 10px;
+    font-size: 23pt;
+    font-family: 'Dancing Script', cursive;
+    margin-top: -100px;
+    font-weight: 700;
+}
+
+div.box {
+    background-color: #cecece;
+    padding: 5px;
+}
+
+div#BtnAdd {
+    margin-left: 1160px;
+    margin-bottom: -48px;
+}
+
+div.BtnConsulta {
+    padding: 10px;
+}
+
+img#bola {
+    width: 220px;
+    margin-top: -137px;
+    margin-left: 150px;
+    margin-bottom: -5px;
+}
+
+img#bola:hover {
+    margin-left: 950px;
+    mask-image: url(../Projeto-Tabela-de-Jogos/imagens/bola.png);
+}
+
+#Mint {
+    color: black;
+    background-color: #cecece;
+    text-align: center;
+}
+
+#Maxt {
+    color: black;
+    background-color: #cecece;
+    text-align: center;
+}
+
+#QrMin {
+    color: black;
+    background-color: #cecece;
+    text-align: center;
+}
+
+#QrMax {
+    color: black;
+    background-color: #cecece;
+    text-align: center;
+}
+
+#btnEditar {
+    color: white;
+}
+
+#btnDelete {
+    color: white;
+}
+
+div#txtInfo {
+    font-family: 'Domine', serif;
+    color: white;
+}
+
+thead#CabecalhoTbl {
+    color: black;
+    background-color: #cecece;
+    text-align: center;
+    font-weight: bold;
+}
+
+tbody#DadosTabela {
+    text-align: center;
+    background-color: white;
+    font-size: 14pt;
+    font-weight: 500;
+}
+
+div#tblAdicional {
+    background-color: white;
+    padding: 5px;
+}
+
+tbody#TabelaInfo {
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+}
+
+td#tblinfomint:hover {
+    font-size: xx-large;
+    color: red;
+}
+
+td#tblinfomaxt:hover {
+    font-size: xx-large;
+    color: red;
+}
+
+td#tblinfoqrmin:hover {
+    font-size: xx-large;
+    color: red;
+}
+
+td#tblinfoqrmax:hover {
+    font-size: xx-large;
+    color: red;
+}
+
+td#tblinfototal:hover {
+    font-size: xx-large;
+    color: red;
+}
+
+footer#rodape {
+    background-image: url(../Projeto-Tabela-de-Jogos/imagens/footer\ banner.jpg);
+    text-align: center;
+    background-color: white;
+    width: 800px;
+    height: 80px;
+    margin-left: 250px;
+    font-size: 13pt;
+    font-family: 'Courgette', cursive;
+}
