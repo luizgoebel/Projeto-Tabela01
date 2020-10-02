@@ -30,7 +30,8 @@ Crie uma tabela chamada “tabelaj”.
 Entre em local host.
 - Entre no arquivo com nome <Projeto-Tabela-de-Jogos>
 
-
+------------> DOWNLOAD WAMPSERVER 2.5 <---------------
+https://wamp.soft32.com.br/download/file/id/1235364/?nc=&dm=3
 
 -----------------------------------------------------------------------
 duvidas ..
