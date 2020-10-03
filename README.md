@@ -17,6 +17,7 @@ Você poderá abrir o LOCALHOST em seu browser (navegador) e estará disponível
 ---------------------------------------------------------------------
 
 OBS: Não é possível clicar em cima do arquivo index.php diretamente, nada irá acontecer.
+----------------------------------------------------------------------
 Precisa seguir os passos a baixo:
 ----------------------------------------------------------------------
 - Faça o download dos arquivos (GITHUB).
@@ -31,6 +32,13 @@ Entre em local host.
 
 ------------> DOWNLOAD WAMPSERVER 2.5 <---------------
 https://wamp.soft32.com.br/download/file/id/1235364/?nc=&dm=3
+
+
+------------------------> DLL [ERRO WAMPSERVER] DOWNLOAD <-----------------------------
+
+Caso aconteça a falta desta DLL ao tentar abrir o wamp, poderá baixar a dll faltando neste depósito de arquivos.
+
+https://pt.dll-files.com/msvcr110.dll.html
 
 -----------------------------------------------------------------------
 dúvidas ..
