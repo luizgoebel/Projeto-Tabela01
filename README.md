@@ -4,7 +4,7 @@ Manipulaçao de dados.
 --> INICIANDO APLICAÇÃO <--
 
 Fazer download dos arquivos disponíveis no GITHUB, se a pasta estiver zipada extrair os arquivos....
-Dando sequência... é preciso utilizar um servidor para abrir a aplicação.
+Dando sequência EXTRAIR OS ARQUIVOS SE FOREM ZIPADOS ... é preciso utilizar um servidor para abrir a aplicação.
 >> Criação feita com WampServer 2.5 <<
 
 	Feita a instalação do wamp server ou seu serv de preferência, coloque os arquivos no diretório do servidor.
